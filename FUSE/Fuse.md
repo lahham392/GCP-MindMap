@@ -6,5 +6,5 @@ It also provides a way for applications to upload and download Cloud Storage obj
 
 ## Flowchart
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/82225825/210511565-5570c06b-3532-4a5e-a498-ce8a2b6cf9c1.png)" alt="Sublime's custom image"/>
+  <img src="(https://user-images.githubusercontent.com/82225825/210511565-5570c06b-3532-4a5e-a498-ce8a2b6cf9c1.png)" alt="Sublime's custom image"/>
 </p>
