@@ -1,4 +1,4 @@
-# VM Machine Creation
+# Setup Cloud Storage Bucket, Mount on the Linux server and auto mount storage
 
 ## Objective
 In order to make Cloud Storage Mountable we should use an adapter which is called FUSE, Cloud Storage FUSE is an open-source adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems.
